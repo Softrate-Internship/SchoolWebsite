@@ -1,0 +1,12 @@
+.btn {
+    width: 20%;
+    margin-top: 20%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    background: rgb(37, 150, 190);
+    border: 0;
+    outline: none;
+    border-radius: 30px !important;
+    margin: auto;
+}
